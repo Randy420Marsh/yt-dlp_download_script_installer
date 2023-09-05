@@ -1,0 +1,1 @@
+cmd %CD% cmd /k
